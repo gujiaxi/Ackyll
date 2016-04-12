@@ -5,8 +5,8 @@ author:
     facebook:
     scholar:
 
-url: "http://gujiaxi.github.com/Ackyll/"
-baseurl: ""
+url: "http://gujiaxi.github.com"
+baseurl: "/Ackyll"
 
 kramdown:
     input: GFM
