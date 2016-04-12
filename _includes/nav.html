@@ -2,21 +2,21 @@
     <li>
         {% for page in site.pages %}
             {% if page.title contains "Research" %}
-                <a href="{{ page.url }}">{{ page.title }}</a>
+                <a href="{{ page.url }}{{ page.baseurl }}">{{ page.title }}</a>
             {% endif %}
         {% endfor %}
     </li>
     <li>
         {% for page in site.pages %}
             {% if page.title contains "CV" %}
-                <a href="{{ page.url }}">{{ page.title }}</a>
+                <a href="{{ page.url }}{{ page.baseurl }}">{{ page.title }}</a>
             {% endif %}
         {% endfor %}
     </li>
     <li>
         {% for page in site.pages %}
             {% if page.title contains "Blog" %}
-                <a href="{{ page.url }}">{{ page.title }}</a>
+                <a href="{{ page.url }}{{ page.baseurl }}">{{ page.title }}</a>
             {% endif %}
         {% endfor %}
     </li>
