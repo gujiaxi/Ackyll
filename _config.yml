@@ -1,0 +1,12 @@
+title: Ackyll K.
+
+author:
+    name: Ackyll
+    facebook:
+    scholar:
+
+url: "http://gujiaxi.github.com/Ackyll/"
+baseurl: ""
+
+kramdown:
+    input: GFM
