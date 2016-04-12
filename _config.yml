@@ -6,7 +6,7 @@ author:
     scholar:
 
 url: "http://gujiaxi.github.com"
-baseurl: "/Ackyll"
+baseurl: ""
 
 kramdown:
     input: GFM
