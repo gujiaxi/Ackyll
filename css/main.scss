@@ -1,7 +1,7 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
-@charset "utf-8";
+@charset "UTF-8";
 
 $base-font-family: 'EB Garamond', serif;
 $base-font-size:   x-large;
@@ -46,6 +46,5 @@ $desktop:          50em;
 @import
     "base",
     "layout",
-    "highlight",
-    "post"
+    "highlight"
 ;

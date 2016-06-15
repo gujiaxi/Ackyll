@@ -107,7 +107,7 @@ A horizontal rule follows.
 
 and images can be specified like so:
 
-![example image](http://r-statistics.co/screenshots/ggplot_2.png "An exemplary image")
+![example](https://i.imgur.com/ngRUQgd.png "Example")
 
 Inline math equations go in like so: \\(\alpha + \beta = \gamma\\). Display
 math should get its own line and be put in in double-dollarsigns:

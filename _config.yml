@@ -1,12 +1,8 @@
-title: Ackyll K.
+title:  Ackyll K.
+author: Isaac G
 
-author:
-    name: Ackyll
-    facebook:
-    scholar:
-
-url: "http://gujiaxi.github.com"
+url: "/"
 baseurl: ""
 
 kramdown:
-    input: GFM
+  input: GFM
