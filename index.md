@@ -4,7 +4,10 @@ title: About
 permalink: /
 ---
 
-{% include image.html url="static/photo.jpg" caption="Xi'an (Apr 2016)" max_width="300px" align="right" %}
+<div style="float:right;margin-left:1em;max-width:300px;">
+<img src="static/photo.jpg" alt="Me" />
+<p style="text-align:center;font-size:0.66em;">Xi'an (Apr 2016)</p>
+</div>
 
 Hi Friends, my name is shivaji rao patil from Hyderabad. I parsuing my B-Tech in stream of computer science and engineering from nict college, xxx with aggregate 65%. I have completed HSC from GURU BASAVA junior college with aggregate of 6% and SSC from Pratibha we. N. High school with aggregate 73%.
 
