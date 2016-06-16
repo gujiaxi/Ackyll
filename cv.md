@@ -6,7 +6,7 @@ permalink: /cv/
 
 *Download [PDF version](/static/cv.pdf).*
 
-- - - - -
+-----
 
 ## Education
 - Bachelor's Degree, 2014 - Northwestern...
