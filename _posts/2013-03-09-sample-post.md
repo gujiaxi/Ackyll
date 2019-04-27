@@ -92,7 +92,7 @@ that last line which continues item 3 above).
 
 Here's a link to [a website](http://foo.bar), to a [local
 doc](local-doc.html), and to a [section heading in the current
-doc](#an-h2-header). Here's a footnote [^1].
+doc](#an-h2-header). Here's a footnote[^1]. And another footnote[^2].
 
 Tables can look like this:
 
@@ -120,3 +120,4 @@ And note that you can backslash-escape any punctuation characters
 which you wish to be displayed literally, ex.: \`foo\`, \*bar\*, etc.
 
 [^1]: Footnote text goes here.
+[^2]: Another footnote text goes here.

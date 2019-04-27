@@ -1,38 +1,34 @@
 ---
 layout: page
 title: CV
-permalink: /cv/
+permalink: cv.html
 ---
 
-*Download [PDF version](/static/cv.pdf).*
+*Download [PDF version](static/cv.pdf).*
 
 -----
 
 ## Education
-- Bachelor's Degree, 2014 - Northwestern...
-- Master's Degree, 2017 - Northwestern...
+- September 2014: Master's Degree, Foo Bar University.
+- September 2017: Bachelor's Degree, Foo Bar University.
 
 ## Awards
-- 2014.8 - BigDataScience'14...
-- 2014.6 - Northwestern...
+- August 2014: BigDataScience'14...
+- June 2014: Northwestern...
 
 ## Experience
-- 2014 - Content Trending in Social Media...
-- 2015 - Visualization Analysis...
-- 2016 - Automatic...
+- April 2016 -- Now: Lorem ipsum dolor sit amet...
+- April 2014 -- April 2016: Lorem ipsum dolor sit amet...
 
 ## Publications
-- Approach...
-- Trending...
+- Foo bar.
+- Bar foo.
 
 ## Skills
 - Programming Skills:
-    - Contact
-    - hell
-    - foo
+    - C/C++
+    - Python
+    - Java
 - English Certification:
-    - CET
-    - ...
-- Others
-    - hello
-    - world
+    - GRE
+    - GMAT

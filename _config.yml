@@ -1,8 +1,5 @@
-title:  Ackyll K.
-author: Isaac G
+title:  Albert Einstein
+author: Albert Einstein
 
-url: "/"
-baseurl: ""
-
-kramdown:
-  input: GFM
+url: ""
+baseurl: "/Ackyll"

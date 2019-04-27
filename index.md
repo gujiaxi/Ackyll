@@ -5,20 +5,18 @@ permalink: /
 ---
 
 <div style="float:right;margin-left:1em;max-width:300px;">
-<img src="static/photo.jpg" alt="Me" />
-<p style="text-align:center;font-size:0.66em;">Xi'an (Apr 2016)</p>
+<img src="static/photo.jpg" alt="Einstein" />
+<p style="text-align:center;font-size:0.66em;">In Munich (April 1882)</p>
 </div>
 
-Hi Friends, my name is shivaji rao patil from Hyderabad. I parsuing my B-Tech in stream of computer science and engineering from nict college, xxx with aggregate 65%. I have completed HSC from GURU BASAVA junior college with aggregate of 6% and SSC from Pratibha we. N. High school with aggregate 73%.
+Hi Friends, my name is Albert Einstein. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
-We are five in my family. My father is a private employee and my mother is a homemaker. I have two sibblings.
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
-About my achievements, I never made any achievements at state level. But in my schooling I got certificate in singing level competition. In college I got NSS certificate which I participated as volunteer in my 1st year of engineering.
-
-My strengths are hardworker, self motivating and dedicated towards my work. And also I'm a good learner as well as teacher.
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
 ## Contact
 
-Northwestern Polytechnical University<br />
-Xi’an Shaanxi, 710072, P.R.China<br />
-Email: [gujiaxi@love.com](mailto:gujiaxi@love.com)
+University of Zurich<br />
+Rämistrasse 71, 8006 Zürich, Switzerland<br />
+Email: [albert.einstein@gmail.com](mailto:albert.einstein@gmail.com)
